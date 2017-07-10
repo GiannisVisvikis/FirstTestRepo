@@ -3,4 +3,8 @@ This is my first init...
 
 Ok, imported the files ... now what?
 
+Got the files from the remote git repository and making changes. 
+
+I like the Roboto Mono by the way. Nice looking font. 
+
 
